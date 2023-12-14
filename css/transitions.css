@@ -1,0 +1,7 @@
+#ex01 .wrapper {
+  transition-property: opacity 0.2s;
+}
+
+#ex01 .box:hover {
+  background-color: #134459;
+}
