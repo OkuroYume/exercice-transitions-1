@@ -14,3 +14,13 @@
   background-color: #134459;
   transition-duration: 0.5s;
 }
+
+#ex03 .wrapper {
+  transition-property: opacity 0.2s;
+}
+
+#ex03 .box:hover {
+  background-color: #134459;
+  transition-duration: 0.5s;
+  transition-delay: 0.5s;
+}
