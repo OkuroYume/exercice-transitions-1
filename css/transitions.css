@@ -107,3 +107,19 @@
 #ex10 .box:hover {
   transform: translatey(20px);
 }
+
+#ex11 .box {
+  transition: transform 0.5s;
+}
+
+#ex11 .box:hover {
+  transform: rotate(90deg);
+}
+
+#ex12 .box {
+  transition: transform 0.5s;
+}
+
+#ex12 .box:hover {
+  transform: scale(1.2);
+}
