@@ -67,3 +67,35 @@
 #ex07 .wrapper:hover .box {
   background-color: #134459;
 }
+
+#ex08 .box {
+  transition: background 0.3s 0.5s;
+}
+
+#ex08 .wrapper {
+  transition: background 0.3s 0.5s;
+}
+
+#ex08 .wrapper:hover {
+  background-color: #134459;
+}
+
+#ex08 .wrapper:hover .box {
+  background-color: #eff7e3;
+}
+
+#ex09 .box {
+  transition: background 0.4s 1s;
+}
+
+#ex09 .wrapper {
+  transition: background 0.4s 0.5s;
+}
+
+#ex09 .wrapper:hover {
+  background-color: #134459;
+}
+
+#ex09 .wrapper:hover .box {
+  background-color: #eff7e3;
+}
