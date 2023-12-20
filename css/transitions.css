@@ -43,3 +43,11 @@
   background-color: #134459;
   color: aliceblue;
 }
+
+#ex06 .box {
+  transition: background 0.3s 0.5s;
+}
+
+#ex06 .wrapper:hover .box {
+  background-color: #134459;
+}
